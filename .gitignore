@@ -1,0 +1,5 @@
+node_modules
+dist/main.js
+lib
+yarn.lock
+yarn-error.log
